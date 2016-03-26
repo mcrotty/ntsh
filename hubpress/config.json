@@ -1,1 +1,10 @@
-
+{
+  meta : {
+    "username": "mcrotty,
+    "repositoryName": "ntsh",
+    "branch": "gh-pages"
+  },
+  "theme": {
+    "name": "Casper"
+  }
+}
